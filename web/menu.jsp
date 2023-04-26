@@ -7,5 +7,6 @@
             <a href="servicios.jsp"><li>Servicio</li></a>
             <a href="portafolio.jsp"><li>Portafolio</li></a>
             <a href="contacto.jsp"><li>Contacto</li></a>
+            <a href="preguntas.jsp"><li>Preguntas</li></a>
           
         </ul>
